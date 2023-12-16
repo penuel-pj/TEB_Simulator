@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/teb.dir/main.cpp.o"
+  "CMakeFiles/teb.dir/main.cpp.o.d"
   "teb"
   "teb.pdb"
 )

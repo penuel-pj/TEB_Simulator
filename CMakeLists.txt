@@ -18,11 +18,12 @@ include_directories(
         ${SUITESPARSE_INCLUDE_DIRS}
         ${G2O_INCLUDE_DIR}
         ${OpenCV_INCLUDE_DIRS}
+        /usr/include/python3.10
 )
 
 include_directories(/usr/local/include)
 link_directories(/usr/local/lib)
-link_directories(/usr/include/python2.7)
+link_directories(/usr/include/python3.10)
 include_directories(${G2O_INCLUDE_DIRS})
 
 add_library(lib_teb
@@ -42,7 +43,7 @@ target_link_libraries(
         ${G2O_LIBRARIES}
         -lboost_system -lboost_thread -lboost_graph
         ${OpenCV_LIBS}
-        python2.7
+        python3.10
         ${PYTHON_LIBRARIES}
 )
 

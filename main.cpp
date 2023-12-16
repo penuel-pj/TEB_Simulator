@@ -8,7 +8,8 @@
 #include <opencv2/opencv.hpp>
 #include <opencv2/highgui/highgui_c.h>
 //#include "/home/juchunyu/20231013/tebNoRos/teb_local_planner/src/matplotlibcpp.h"
-#include "/home/juchunyu/20231013/tebNoRos/teb_local_planner/matplotlib-cpp/matplotlibcpp.h"
+//#include "/home/juchunyu/20231013/tebNoRos/teb_local_planner/matplotlib-cpp/matplotlibcpp.h"
+#include "matplotlibcpp.h"
 #include <vector>
 #include <Eigen/Dense>
 
