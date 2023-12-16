@@ -73,71 +73,71 @@ CMakeFiles/lib_teb.dir/src/teb_config.cpp.o: CMakeFiles/lib_teb.dir/flags.make
 CMakeFiles/lib_teb.dir/src/teb_config.cpp.o: ../src/teb_config.cpp
 CMakeFiles/lib_teb.dir/src/teb_config.cpp.o: CMakeFiles/lib_teb.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zme/WORK/TEB_Simulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lib_teb.dir/src/teb_config.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lib_teb.dir/src/teb_config.cpp.o -MF CMakeFiles/lib_teb.dir/src/teb_config.cpp.o.d -o CMakeFiles/lib_teb.dir/src/teb_config.cpp.o -c /home/zme/WORK/TEB_Simulator/src/teb_config.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lib_teb.dir/src/teb_config.cpp.o -MF CMakeFiles/lib_teb.dir/src/teb_config.cpp.o.d -o CMakeFiles/lib_teb.dir/src/teb_config.cpp.o -c /home/zme/WORK/TEB_Simulator/src/teb_config.cpp
 
 CMakeFiles/lib_teb.dir/src/teb_config.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lib_teb.dir/src/teb_config.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zme/WORK/TEB_Simulator/src/teb_config.cpp > CMakeFiles/lib_teb.dir/src/teb_config.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zme/WORK/TEB_Simulator/src/teb_config.cpp > CMakeFiles/lib_teb.dir/src/teb_config.cpp.i
 
 CMakeFiles/lib_teb.dir/src/teb_config.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lib_teb.dir/src/teb_config.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zme/WORK/TEB_Simulator/src/teb_config.cpp -o CMakeFiles/lib_teb.dir/src/teb_config.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zme/WORK/TEB_Simulator/src/teb_config.cpp -o CMakeFiles/lib_teb.dir/src/teb_config.cpp.s
 
 CMakeFiles/lib_teb.dir/src/obstacles.cpp.o: CMakeFiles/lib_teb.dir/flags.make
 CMakeFiles/lib_teb.dir/src/obstacles.cpp.o: ../src/obstacles.cpp
 CMakeFiles/lib_teb.dir/src/obstacles.cpp.o: CMakeFiles/lib_teb.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zme/WORK/TEB_Simulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/lib_teb.dir/src/obstacles.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lib_teb.dir/src/obstacles.cpp.o -MF CMakeFiles/lib_teb.dir/src/obstacles.cpp.o.d -o CMakeFiles/lib_teb.dir/src/obstacles.cpp.o -c /home/zme/WORK/TEB_Simulator/src/obstacles.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lib_teb.dir/src/obstacles.cpp.o -MF CMakeFiles/lib_teb.dir/src/obstacles.cpp.o.d -o CMakeFiles/lib_teb.dir/src/obstacles.cpp.o -c /home/zme/WORK/TEB_Simulator/src/obstacles.cpp
 
 CMakeFiles/lib_teb.dir/src/obstacles.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lib_teb.dir/src/obstacles.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zme/WORK/TEB_Simulator/src/obstacles.cpp > CMakeFiles/lib_teb.dir/src/obstacles.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zme/WORK/TEB_Simulator/src/obstacles.cpp > CMakeFiles/lib_teb.dir/src/obstacles.cpp.i
 
 CMakeFiles/lib_teb.dir/src/obstacles.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lib_teb.dir/src/obstacles.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zme/WORK/TEB_Simulator/src/obstacles.cpp -o CMakeFiles/lib_teb.dir/src/obstacles.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zme/WORK/TEB_Simulator/src/obstacles.cpp -o CMakeFiles/lib_teb.dir/src/obstacles.cpp.s
 
 CMakeFiles/lib_teb.dir/src/visualization.cpp.o: CMakeFiles/lib_teb.dir/flags.make
 CMakeFiles/lib_teb.dir/src/visualization.cpp.o: ../src/visualization.cpp
 CMakeFiles/lib_teb.dir/src/visualization.cpp.o: CMakeFiles/lib_teb.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zme/WORK/TEB_Simulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/lib_teb.dir/src/visualization.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lib_teb.dir/src/visualization.cpp.o -MF CMakeFiles/lib_teb.dir/src/visualization.cpp.o.d -o CMakeFiles/lib_teb.dir/src/visualization.cpp.o -c /home/zme/WORK/TEB_Simulator/src/visualization.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lib_teb.dir/src/visualization.cpp.o -MF CMakeFiles/lib_teb.dir/src/visualization.cpp.o.d -o CMakeFiles/lib_teb.dir/src/visualization.cpp.o -c /home/zme/WORK/TEB_Simulator/src/visualization.cpp
 
 CMakeFiles/lib_teb.dir/src/visualization.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lib_teb.dir/src/visualization.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zme/WORK/TEB_Simulator/src/visualization.cpp > CMakeFiles/lib_teb.dir/src/visualization.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zme/WORK/TEB_Simulator/src/visualization.cpp > CMakeFiles/lib_teb.dir/src/visualization.cpp.i
 
 CMakeFiles/lib_teb.dir/src/visualization.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lib_teb.dir/src/visualization.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zme/WORK/TEB_Simulator/src/visualization.cpp -o CMakeFiles/lib_teb.dir/src/visualization.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zme/WORK/TEB_Simulator/src/visualization.cpp -o CMakeFiles/lib_teb.dir/src/visualization.cpp.s
 
 CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.o: CMakeFiles/lib_teb.dir/flags.make
 CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.o: ../src/optimal_planner.cpp
 CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.o: CMakeFiles/lib_teb.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zme/WORK/TEB_Simulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.o -MF CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.o.d -o CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.o -c /home/zme/WORK/TEB_Simulator/src/optimal_planner.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.o -MF CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.o.d -o CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.o -c /home/zme/WORK/TEB_Simulator/src/optimal_planner.cpp
 
 CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zme/WORK/TEB_Simulator/src/optimal_planner.cpp > CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zme/WORK/TEB_Simulator/src/optimal_planner.cpp > CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.i
 
 CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zme/WORK/TEB_Simulator/src/optimal_planner.cpp -o CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zme/WORK/TEB_Simulator/src/optimal_planner.cpp -o CMakeFiles/lib_teb.dir/src/optimal_planner.cpp.s
 
 CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.o: CMakeFiles/lib_teb.dir/flags.make
 CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.o: ../src/timed_elastic_band.cpp
 CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.o: CMakeFiles/lib_teb.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/zme/WORK/TEB_Simulator/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.o -MF CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.o.d -o CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.o -c /home/zme/WORK/TEB_Simulator/src/timed_elastic_band.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.o -MF CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.o.d -o CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.o -c /home/zme/WORK/TEB_Simulator/src/timed_elastic_band.cpp
 
 CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zme/WORK/TEB_Simulator/src/timed_elastic_band.cpp > CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/zme/WORK/TEB_Simulator/src/timed_elastic_band.cpp > CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.i
 
 CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zme/WORK/TEB_Simulator/src/timed_elastic_band.cpp -o CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/zme/WORK/TEB_Simulator/src/timed_elastic_band.cpp -o CMakeFiles/lib_teb.dir/src/timed_elastic_band.cpp.s
 
 # Object files for target lib_teb
 lib_teb_OBJECTS = \
